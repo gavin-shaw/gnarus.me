@@ -33,7 +33,7 @@
         </div>
         <div class="col-md box box-4">
             <div class="cover"><img src="box4.png" alt=""></div>
-            <form action="mailto:gavin@gnarus.io">
+            <form action="mailto:gavin@gnarus.io" method="post">
                 <button>
                     <div></div>
                 </button>
